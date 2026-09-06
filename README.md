@@ -13,9 +13,7 @@
 
 ---
 
-I build consumer products for a living and spend the rest of my time behind a camera or a pair of CDJs. Previously an engineer at the **Financial Times**, **Cleo** and **Gatsby**; these days I mostly ship small, sharp tools — often ones that scratch an itch from the creative side of my life.
-
-The through-line is the same either way: make the thing work properly, then make it look like it was meant to.
+Multidisciplinary, spanning software engineering, photography, music and digital content. I've shipped consumer products as an engineer at the **Financial Times**, **Cleo** and **Gatsby**, and built an independent audience and brand as a DJ, photographer and content creator across London's music, culture and LGBTQ+ scenes — moving comfortably between code, campaign delivery and creative production.
 
 ## Currently
 

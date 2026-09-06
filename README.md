@@ -9,6 +9,7 @@
   <a href="https://soundcloud.com/valenfys"><img alt="SoundCloud" src="https://img.shields.io/badge/@valenfys-FF5500?style=flat-square&logo=soundcloud&logoColor=white"></a>
   <a href="https://www.youtube.com/@valenfys"><img alt="YouTube" src="https://img.shields.io/badge/@valenfys-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/valenfys"><img alt="Instagram" src="https://img.shields.io/badge/@valenfys-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="mailto:valenfys@icloud.com"><img alt="Email" src="https://img.shields.io/badge/valenfys%40icloud.com-3693F3?style=flat-square&logo=icloud&logoColor=white"></a>
 </p>
 
 ---
@@ -24,14 +25,13 @@ Multidisciplinary, spanning software engineering, photography, music and digital
 
 ## Selected work
 
-| | | |
-|---|---|---|
-| [**notion-linux**](https://github.com/valenfys/notion-linux) | Native Notion packages for Linux | `Shell` · ⭐ 961 |
-| [**ninetales**](https://github.com/valenfys/ninetales) | An experimental framework raising the performance bar | `JavaScript` · ⭐ 26 |
-| [**deezer-deb-builder**](https://github.com/valenfys/deezer-deb-builder) | Build Deezer packages for Ubuntu/Debian | `Shell` · ⭐ 24 |
-| [**square-bracketify**](https://github.com/valenfys/square-bracketify) | Turn `functions(with, args)` into `squareFunctions[[with, args]]` | `JavaScript` · ⭐ 14 |
-| [**printworks**](https://github.com/valenfys/printworks) | CLI that turns camera RAW files into JPEGs | `Rust` |
-| [**livecaption**](https://github.com/valenfys/livecaption) | Live multilingual captioning, built for my QueerJS talk | `JavaScript` |
+| Project | What it is | Stack | ⭐ |
+| :--- | :--- | :--- | ---: |
+| [**notion-linux**](https://github.com/valenfys/notion-linux) | Native Notion packages for Linux | Shell | 961 |
+| [**ninetales**](https://github.com/valenfys/ninetales) | An experimental framework raising the performance bar | JavaScript | 26 |
+| [**deezer-deb-builder**](https://github.com/valenfys/deezer-deb-builder) | Build Deezer packages for Ubuntu/Debian | Shell | 24 |
+| [**printworks**](https://github.com/valenfys/printworks) | CLI that turns camera RAW files into JPEGs | Rust | |
+| [**livecaption**](https://github.com/valenfys/livecaption) | Live multilingual captioning, built for my QueerJS talk | JavaScript | |
 
 ## Toolkit
 
@@ -71,3 +71,4 @@ Gatsby Core team — bug fixes, reliability work, and a new release of the Offli
 - 🎵 [soundcloud.com/valenfys](https://soundcloud.com/valenfys) — mixes
 - ▶️ [youtube.com/@valenfys](https://www.youtube.com/@valenfys) — sets and recaps
 - 📸 [instagram.com/valenfys](https://www.instagram.com/valenfys)
+- ✉️ [valenfys@icloud.com](mailto:valenfys@icloud.com)

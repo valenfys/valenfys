@@ -15,18 +15,18 @@
 
 ---
 
-Multidisciplinary, spanning software engineering, photography, music and digital content. I've shipped consumer products as an engineer at the **Financial Times**, **Cleo** and **Gatsby**, and built an independent audience and brand as a DJ, photographer and content creator across London's music, culture and LGBTQ+ scenes — moving comfortably between code, campaign delivery and creative production.
+Multidisciplinary, spanning software engineering, photography, music and digital content. I've shipped consumer products as an engineer at the **Financial Times**, **Cleo** and **Gatsby**, and built an independent audience and brand as a DJ, photographer and content creator across London's music, culture and LGBTQ+ scenes, moving comfortably between code, campaign delivery and creative production.
 
 ## Currently
 
-- 🎧 Playing techno across London — clubs, festivals, warehouses and the occasional forest. Mixes have aired on Sibling Radio (London), OMIDOX Hypnotic Podcast (Hamburg) and Over.The.Techno (Rostov-on-Don)
-- 🎚️ Learning production in Ableton Live, chasing a hypnotic, groove-driven sound
-- 🦀 Writing more Rust — mostly photo tooling
-- 📅 Playing **Fragment** at The Glove That Fits (Oct 2026), and heading to **ADE** in Amsterdam, 21–25 Oct
+- Playing techno across London: clubs, festivals, warehouses and the occasional forest. Mixes have aired on Sibling Radio (London), OMIDOX Hypnotic Podcast (Hamburg) and Over.The.Techno (Rostov-on-Don)
+- Learning production in Ableton Live, chasing a hypnotic, groove-driven sound
+- Writing more Rust, mostly photo tooling
+- Playing **Fragment** at The Glove That Fits (Oct 2026), and heading to **ADE** in Amsterdam, 21–25 Oct
 
 ## Selected work
 
-| Project | What it is | Stack | ⭐ |
+| Project | What it is | Stack | Stars |
 | :--- | :--- | :--- | ---: |
 | [**notion-linux**](https://github.com/valenfys/notion-linux) | Native Notion packages for Linux | Shell | 961 |
 | [**bacpac**](https://github.com/valenfys/bacpac) | Back up and restore Arch Linux packages and pacman configuration | Shell | 37 |
@@ -47,31 +47,31 @@ Multidisciplinary, spanning software engineering, photography, music and digital
 
 ## Where I've been
 
-**DJ & content creator** — self-employed · May 2025 → now  
+**DJ & content creator**, self-employed · May 2025 → now  
 Sets across London's techno scene, plus the video and mix content that goes with them.
 
-**Photographer, events & portraits** — self-employed · 2022 → 2025  
+**Photographer, events & portraits**, self-employed · 2022 → 2025  
 Event and promotional work for Attitude Magazine, Bishopsgate Institute, Camp Trans, London LGBTQ+ Community Centre and Not A Phase, alongside personal documentary work on London's queer community.
 
-**Youth ambassador** — Roundhouse Trust · 2025 → 2026  
+**Youth ambassador**, Roundhouse Trust · 2025 → 2026  
 Represented Roundhouse Creative Studios at festivals and career fairs, and fed insight back on reaching young creatives.
 
-**Frontend engineer** — Cleo · 2022  
+**Frontend engineer**, Cleo · 2022  
 React Native and TypeScript features in the Cleo app; supported a full payment-provider migration.
 
-**Software engineer** — Financial Times · 2020  
+**Software engineer**, Financial Times · 2020  
 Shipped a responsive onboarding app (Node/Express) helping new subscribers find topics and journalists worth following, and ran growth experiments with the US Growth team.
 
-**Software engineer** — Happiful · 2018 → 2020  
+**Software engineer**, Happiful · 2018 → 2020  
 Auto-generated social thumbnail cards, a Support Groups feature and a professional-directory search widget.
 
-**Software engineer** — Gatsby (now Netlify) · 2018 → 2019  
-Gatsby Core team — bug fixes, reliability work, and a new release of the Offline Plugin with docs and a launch post.
+**Software engineer**, Gatsby (now Netlify) · 2018 → 2019  
+Gatsby Core team: bug fixes, reliability work, and a new release of the Offline Plugin with docs and a launch post.
 
 ## Elsewhere
 
-- 💼 [linkedin.com/in/valenfys](https://www.linkedin.com/in/valenfys)
-- 🎵 [soundcloud.com/valenfys](https://soundcloud.com/valenfys) — mixes
-- ▶️ [youtube.com/@valenfys](https://www.youtube.com/@valenfys) — sets and recaps
-- 📸 [instagram.com/valenfys](https://www.instagram.com/valenfys)
-- ✉️ [valenfys@icloud.com](mailto:valenfys@icloud.com)
+- [linkedin.com/in/valenfys](https://www.linkedin.com/in/valenfys)
+- [soundcloud.com/valenfys](https://soundcloud.com/valenfys) (mixes)
+- [youtube.com/@valenfys](https://www.youtube.com/@valenfys) (sets and recaps)
+- [instagram.com/valenfys](https://www.instagram.com/valenfys)
+- [valenfys@icloud.com](mailto:valenfys@icloud.com)

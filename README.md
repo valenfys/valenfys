@@ -29,6 +29,7 @@ Multidisciplinary, spanning software engineering, photography, music and digital
 | Project | What it is | Stack | ⭐ |
 | :--- | :--- | :--- | ---: |
 | [**notion-linux**](https://github.com/valenfys/notion-linux) | Native Notion packages for Linux | Shell | 961 |
+| [**bacpac**](https://github.com/valenfys/bacpac) | Back up and restore Arch Linux packages and pacman configuration | Shell | 37 |
 | [**ninetales**](https://github.com/valenfys/ninetales) | An experimental framework raising the performance bar | JavaScript | 26 |
 | [**deezer-deb-builder**](https://github.com/valenfys/deezer-deb-builder) | Build Deezer packages for Ubuntu/Debian | Shell | 24 |
 | [**printworks**](https://github.com/valenfys/printworks) | CLI that turns camera RAW files into JPEGs | Rust | |

@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://valerie.photos"><img alt="Website" src="https://img.shields.io/badge/valerie.photos-111111?style=flat-square&logo=safari&logoColor=white"></a>
-  <a href="https://www.instagram.com/vtenfys"><img alt="Instagram" src="https://img.shields.io/badge/@vtenfys-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://soundcloud.com/vtenfys"><img alt="SoundCloud" src="https://img.shields.io/badge/@vtenfys-FF5500?style=flat-square&logo=soundcloud&logoColor=white"></a>
+  <a href="https://soundcloud.com/valenfys"><img alt="SoundCloud" src="https://img.shields.io/badge/@valenfys-FF5500?style=flat-square&logo=soundcloud&logoColor=white"></a>
+  <a href="https://www.youtube.com/@valenfys"><img alt="YouTube" src="https://img.shields.io/badge/@valenfys-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/valenfys"><img alt="Instagram" src="https://img.shields.io/badge/@valenfys-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -70,6 +70,6 @@ Gatsby Core team — bug fixes, reliability work, and a new release of the Offli
 
 ## Elsewhere
 
-- 📷 [valerie.photos](https://valerie.photos) — photography
-- 🎵 [soundcloud.com/vtenfys](https://soundcloud.com/vtenfys) — mixes
-- 📸 [instagram.com/vtenfys](https://www.instagram.com/vtenfys)
+- 🎵 [soundcloud.com/valenfys](https://soundcloud.com/valenfys) — mixes
+- ▶️ [youtube.com/@valenfys](https://www.youtube.com/@valenfys) — sets and recaps
+- 📸 [instagram.com/valenfys](https://www.instagram.com/valenfys)

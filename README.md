@@ -1,16 +1,8 @@
 <h1 align="center">Val Enfys</h1>
 
 <p align="center">
-  Software engineer · Photographer · DJ<br>
+  Artist and Creative Technologist<br>
   <sub>London, UK</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/valenfys"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-valenfys-0A66C2?style=flat-square"></a>
-  <a href="https://soundcloud.com/valenfys"><img alt="SoundCloud" src="https://img.shields.io/badge/@valenfys-FF5500?style=flat-square&logo=soundcloud&logoColor=white"></a>
-  <a href="https://www.youtube.com/@valenfys"><img alt="YouTube" src="https://img.shields.io/badge/@valenfys-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/valenfys"><img alt="Instagram" src="https://img.shields.io/badge/@valenfys-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="mailto:valenfys@icloud.com"><img alt="Email" src="https://img.shields.io/badge/valenfys%40icloud.com-3693F3?style=flat-square&logo=icloud&logoColor=white"></a>
 </p>
 
 ---

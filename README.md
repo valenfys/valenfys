@@ -59,11 +59,3 @@ Auto-generated social thumbnail cards, a Support Groups feature and a profession
 
 **Software engineer**, Gatsby (now Netlify) · 2018 → 2019  
 Gatsby Core team: bug fixes, reliability work, and a new release of the Offline Plugin with docs and a launch post.
-
-## Elsewhere
-
-- [linkedin.com/in/valenfys](https://www.linkedin.com/in/valenfys)
-- [soundcloud.com/valenfys](https://soundcloud.com/valenfys) (mixes)
-- [youtube.com/@valenfys](https://www.youtube.com/@valenfys) (sets and recaps)
-- [instagram.com/valenfys](https://www.instagram.com/valenfys)
-- [valenfys@icloud.com](mailto:valenfys@icloud.com)

@@ -27,7 +27,7 @@ Multidisciplinary, spanning software engineering, photography, music and digital
 | [**printworks**](https://github.com/valenfys/printworks) | CLI that turns camera RAW files into JPEGs | Rust | |
 | [**livecaption**](https://github.com/valenfys/livecaption) | Live multilingual captioning, built for my QueerJS talk | JavaScript | |
 
-## Toolkit
+## Skills
 
 **Languages** &nbsp;TypeScript · JavaScript · Python · Rust · SQL · HTML/CSS
 
@@ -37,15 +37,15 @@ Multidisciplinary, spanning software engineering, photography, music and digital
 
 **Audio** &nbsp;Rekordbox · Ableton Live
 
-## Where I've been
+## Experience
 
-**DJ & content creator**, self-employed · May 2025 → now  
+**DJ & content creator**, self-employed · May 2025 - now  
 Sets across London's techno scene, plus the video and mix content that goes with them.
 
-**Photographer, events & portraits**, self-employed · 2022 → 2025  
+**Photographer, events & portraits**, self-employed · 2022 - 2025  
 Event and promotional work for Attitude Magazine, Bishopsgate Institute, Camp Trans, London LGBTQ+ Community Centre and Not A Phase, alongside personal documentary work on London's queer community.
 
-**Youth ambassador**, Roundhouse Trust · 2025 → 2026  
+**Youth ambassador**, Roundhouse Trust · 2025 - 2026  
 Represented Roundhouse Creative Studios at festivals and career fairs, and fed insight back on reaching young creatives.
 
 **Frontend engineer**, Cleo · 2022  
@@ -54,8 +54,8 @@ React Native and TypeScript features in the Cleo app; supported a full payment-p
 **Software engineer**, Financial Times · 2020  
 Shipped a responsive onboarding app (Node/Express) helping new subscribers find topics and journalists worth following, and ran growth experiments with the US Growth team.
 
-**Software engineer**, Happiful · 2018 → 2020  
+**Software engineer**, Happiful · 2018 - 2020  
 Auto-generated social thumbnail cards, a Support Groups feature and a professional-directory search widget.
 
-**Software engineer**, Gatsby (now Netlify) · 2018 → 2019  
+**Software engineer**, Gatsby (now Netlify) · 2018 - 2019  
 Gatsby Core team: bug fixes, reliability work, and a new release of the Offline Plugin with docs and a launch post.

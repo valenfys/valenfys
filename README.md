@@ -1,7 +1,7 @@
 <h1 align="center">Val Enfys</h1>
 
 <p align="center">
-  Artist and Creative Technologist<br>
+  DJ, Artist & Creative Technologist<br>
   <sub>London, UK</sub>
 </p>
 

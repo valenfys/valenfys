@@ -10,15 +10,8 @@
 
 ---
 
-Multidisciplinary professional spanning software engineering, digital content, photography and music. Experience shipping consumer products as an engineer at the Financial Times, Cleo and Gatsby, alongside building an independent audience and brand as a DJ, photographer and content creator across London's music, culture and LGBTQ+ scenes. Comfortable moving between code, campaign delivery and creative production, working equally well independently or as part of a team.
+Val Enfys is a multidisciplinary creative professional working across music and technology. As a DJ, she has crafted an independent identity and brand within London's techno scene, and is developing production skills with Ableton Live.
 
-## Selected work
+Since October 2026, she is studying Music Production & Software Engineering at [pointblank Music School](https://www.pointblankmusicschool.com/) in London, and has shipped consumer products as a software engineer at the [Financial Times](https://www.ft.com/), [Cleo](https://web.meetcleo.com/) and [Gatsby](https://www.gatsbyjs.com/).
 
-| Project | What it is | Stack | Stars |
-| :--- | :--- | :--- | ---: |
-| [**notion-linux**](https://github.com/valenfys/notion-linux) | Native Notion packages for Linux | Shell | 961 |
-| [**bacpac**](https://github.com/valenfys/bacpac) | Back up and restore Arch Linux packages and pacman configuration | Shell | 37 |
-| [**ninetales**](https://github.com/valenfys/ninetales) | An experimental framework raising the performance bar | JavaScript | 26 |
-| [**deezer-deb-builder**](https://github.com/valenfys/deezer-deb-builder) | Build Deezer packages for Ubuntu/Debian | Shell | 24 |
-| [**printworks**](https://github.com/valenfys/printworks) | CLI that turns camera RAW files into JPEGs | Rust | |
-| [**livecaption**](https://github.com/valenfys/livecaption) | Live multilingual captioning, built for my QueerJS talk | JavaScript | |
+She was selected for [ADE Lab On Track](https://www.amsterdam-dance-event.nl/en/ade-lab-on-track/) 2026, a three-day programme for DJs and producers early in their career, at the 30th [Amsterdam Dance Event](https://www.amsterdam-dance-event.nl/en/).

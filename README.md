@@ -1,7 +1,7 @@
 <h1>Val Enfys</h1>
 
 <p>
-  DJ, Artist & Creative Technologist<br>
+  DJ, Artist & Software Engineer<br>
   <sub>
     <a href="mailto:val@valenfys.com">val@valenfys.com</a> &middot;
     <a href="https://www.valenfys.com/">www.valenfys.com</a>
